@@ -6,10 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Pirates arrrr</title>
+  <title>My music blog</title>
 
   <meta name="author" content="Panos Theof" />
 
+  
+  <meta name="description" content="This is where I will tell my friends way too much about me">
   
 
   <link rel="alternate" type="application/rss+xml" title="DJ Panos - A virtual proof that name is awesome!" href="/feed.xml" />
@@ -48,19 +50,19 @@
   
 
   
-  <meta property="og:title" content="Pirates arrrr" />
+  <meta property="og:title" content="My music blog" />
   
 
    
-  <meta property="og:description" content="Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the...">
+  <meta property="og:description" content="This is where I will tell my friends way too much about me">
   
 
 
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://csakel.github.io/djpanos/2015-01-15-pirates/" />
-  <link rel="canonical" href="http://csakel.github.io/djpanos/2015-01-15-pirates/" />
+  <meta property="og:url" content="http://csakel.github.io/djpanos_" />
+  <link rel="canonical" href="http://csakel.github.io/djpanos_" />
   
 
   
@@ -74,11 +76,11 @@
   <meta name="twitter:creator" content="@yourname" />
 
   
-  <meta name="twitter:title" content="Pirates arrrr" />
+  <meta name="twitter:title" content="My music blog" />
   
 
   
-  <meta name="twitter:description" content="Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the...">
+  <meta name="twitter:description" content="This is where I will tell my friends way too much about me">
   
 
   
@@ -89,7 +91,7 @@
 
 
   <body>
-  
+
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -219,12 +221,15 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="post-heading">
-          <h1>Pirates arrrr</h1>
+        <div class="page-heading">
+          <h1>My music blog</h1>
+		  
+		    
+            <hr class="small">
+            <span class="page-subheading">This is where I will tell my friends way too much about me</span>
+			
 		  
 		  
-		  
-		  <span class="post-meta">Posted on January 15, 2015</span>
 		  
         </div>
       </div>
@@ -236,82 +241,20 @@
 
 
 
-<div class="container">
+<div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-      <article role="main" class="blog-post">
-        <p>Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.</p>
-
-      </article>
-
-      
-        <div class="blog-tags">
-          Tags:
-          
-            pirates, random
-          
-        </div>
-      
-
-      
-        <!-- Check if any share-links are active -->
-
-
-
-
-<section id = "social-share-section">
-
-  <!--- Share on Twitter -->
+       <div class="posts-list">
   
-    <a href="https://twitter.com/intent/tweet?text=Pirates+arrrr+http://csakel.github.io/djpanos/2015-01-15-pirates/"
-      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
-      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
-    </a>
-  
-
-  <!--- Share on Facebook -->
-  
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http://csakel.github.io/djpanos/2015-01-15-pirates/"
-      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
-      <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
-    </a>
-  
-
-  <!--- Share on Google Plus -->
-  
-
-  <!--- Share on LinkedIn -->
-  
-
-</section>
+</div>
 
 
 
-      
-
-      <ul class="pager blog-pager">
-        
-        <li class="previous">
-          <a href="/2015-01-04-first-post/" data-toggle="tooltip" data-placement="top" title="First post!">&larr; Previous Post</a>
-        </li>
-        
-        
-        <li class="next">
-          <a href="/2015-01-19-soccer/" data-toggle="tooltip" data-placement="top" title="Soccer">Next Post &rarr;</a>
-        </li>
-        
-      </ul>
-
-      
-        <div class="disqus-comments">
-          
-
-        </div>
-      
+	    
     </div>
   </div>
 </div>
+
 
     <footer>
   <div class="container beautiful-jekyll-footer">
@@ -380,7 +323,7 @@
   </div>
 </footer>
 
-  
+
     
 
 
@@ -412,6 +355,6 @@
 
 
 
-  
+
   </body>
 </html>

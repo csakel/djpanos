@@ -7,14 +7,25 @@
     <atom:link href="http://csakel.github.io/djpanos/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Panos Test</title>
+        <description>
+          Mixin - 
+          Το Lorem Ipsum είναι απλά ένα κείμενο χωρίς νόημα για τους επαγγελματίες της τυπογραφίας και στοιχειοθεσίας. Το Lorem Ipsum είναι το επαγγελματικό πρότυπο όσον αφορά το κείμενο χωρίς νόημα, από τον 15ο αιώνα, όταν ένας ανώνυμος τυπογράφος πήρε ένα δοκίμιο και ανακάτεψε τις λέξεις για να δημιουργήσει ένα δείγμα βιβλίου....
+        </description>
+        <pubDate>Fri, 09 Dec 2016 00:00:00 +0200</pubDate>
+        <link>http://csakel.github.io/djpanos/09-12-2016-test_panos/</link>
+        <guid isPermaLink="true">http://csakel.github.io/djpanos/09-12-2016-test_panos/</guid>
+      </item>
+    
+      <item>
         <title>Flake it till you make it</title>
         <description>
           Excerpt from Soulshaping by Jeff Brown - 
           Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
         </description>
         <pubDate>Thu, 26 Feb 2015 00:00:00 +0200</pubDate>
-        <link>http://csakel.github.io/djpanos/2015-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://csakel.github.io/djpanos/2015-02-26-flake-it-till-you-make-it/</guid>
+        <link>http://csakel.github.io/djpanos/26-02-2015-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://csakel.github.io/djpanos/26-02-2015-flake-it-till-you-make-it/</guid>
       </item>
     
       <item>
@@ -24,8 +35,8 @@
           You can write regular markdown here and Jekyll will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a...
         </description>
         <pubDate>Fri, 20 Feb 2015 00:00:00 +0200</pubDate>
-        <link>http://csakel.github.io/djpanos/2015-02-20-test-markdown/</link>
-        <guid isPermaLink="true">http://csakel.github.io/djpanos/2015-02-20-test-markdown/</guid>
+        <link>http://csakel.github.io/djpanos/20-02-2015-test-markdown/</link>
+        <guid isPermaLink="true">http://csakel.github.io/djpanos/20-02-2015-test-markdown/</guid>
       </item>
     
       <item>
@@ -35,8 +46,8 @@
           To be, or not to be–that is the question: Whether ‘tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep– No more–and by a sleep to say we...
         </description>
         <pubDate>Fri, 13 Feb 2015 00:00:00 +0200</pubDate>
-        <link>http://csakel.github.io/djpanos/2015-02-13-hamlet-monologue/</link>
-        <guid isPermaLink="true">http://csakel.github.io/djpanos/2015-02-13-hamlet-monologue/</guid>
+        <link>http://csakel.github.io/djpanos/13-02-2015-hamlet-monologue/</link>
+        <guid isPermaLink="true">http://csakel.github.io/djpanos/13-02-2015-hamlet-monologue/</guid>
       </item>
     
       <item>
@@ -46,8 +57,8 @@
           What is it with that Mary girl? Dragging me to school every day. As if I had a choice. What you don’t hear in those nursery rhymes is that she starves me if I don’t go to school with her; it’s the only way I can stay alive! I’m thinking...
         </description>
         <pubDate>Tue, 27 Jan 2015 00:00:00 +0200</pubDate>
-        <link>http://csakel.github.io/djpanos/2015-01-27-dear-diary/</link>
-        <guid isPermaLink="true">http://csakel.github.io/djpanos/2015-01-27-dear-diary/</guid>
+        <link>http://csakel.github.io/djpanos/27-01-2015-dear-diary/</link>
+        <guid isPermaLink="true">http://csakel.github.io/djpanos/27-01-2015-dear-diary/</guid>
       </item>
     
       <item>
@@ -57,8 +68,8 @@
           From Wikipedia: Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world’s most popular sport.[3][4][5][6] The game is played on a rectangular...
         </description>
         <pubDate>Mon, 19 Jan 2015 00:00:00 +0200</pubDate>
-        <link>http://csakel.github.io/djpanos/2015-01-19-soccer/</link>
-        <guid isPermaLink="true">http://csakel.github.io/djpanos/2015-01-19-soccer/</guid>
+        <link>http://csakel.github.io/djpanos/19-01-2015-soccer/</link>
+        <guid isPermaLink="true">http://csakel.github.io/djpanos/19-01-2015-soccer/</guid>
       </item>
     
       <item>
@@ -68,8 +79,8 @@
           Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the...
         </description>
         <pubDate>Thu, 15 Jan 2015 00:00:00 +0200</pubDate>
-        <link>http://csakel.github.io/djpanos/2015-01-15-pirates/</link>
-        <guid isPermaLink="true">http://csakel.github.io/djpanos/2015-01-15-pirates/</guid>
+        <link>http://csakel.github.io/djpanos/15-01-2015-pirates/</link>
+        <guid isPermaLink="true">http://csakel.github.io/djpanos/15-01-2015-pirates/</guid>
       </item>
     
       <item>
@@ -80,8 +91,8 @@
 
         </description>
         <pubDate>Sun, 04 Jan 2015 00:00:00 +0200</pubDate>
-        <link>http://csakel.github.io/djpanos/2015-01-04-first-post/</link>
-        <guid isPermaLink="true">http://csakel.github.io/djpanos/2015-01-04-first-post/</guid>
+        <link>http://csakel.github.io/djpanos/04-01-2015-first-post/</link>
+        <guid isPermaLink="true">http://csakel.github.io/djpanos/04-01-2015-first-post/</guid>
       </item>
     
   </channel>
