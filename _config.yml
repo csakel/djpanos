@@ -24,12 +24,19 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Useful Links:
+    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Pioneer DJ: "https://www.pioneerdj.com/en-gb/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-    - Sinatra Page: "http://www.sinatrarb.com/"
-  Weather: "http://wttr.in"
+  # Woodcastle: "Woodcastle"
+  Woodcastle:
+    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Weather: "http://wttr.in/"
+    - Trikala: "http://www.trikala-korinthias.gr/touristikipyli/web-camera/"
+    - Baybeez: "http://www.baybeez.gr/web-camera//"
+    # - Weather: "http://wttr.in/"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,9 +49,9 @@ avatar: "/img/dj-red-mixing.jpg"
 author:
   name: Panos Theof
   email: "DJPanos@music.io"
-  facebook: yourname  # eg. daattali
+  facebook: panagiwtis.theofilopoulos  # eg. daattali
   github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: djPanosTheof   # eg. daattali
   # reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali

@@ -7,6 +7,17 @@
     <atom:link href="http://csakel.github.io/djpanos/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Dataplicity Drastically Simplifies Remote Management of a Raspberry Pi</title>
+        <description>
+          
+          Typically, if you wanted to control your Raspberry Pi from outside your network, you’d need to go through and set up your router to allow access from the internet, install some software on your Pi, set up a DNS, and cross your fingers you’re doing that all securely. Dataplicity makes...
+        </description>
+        <pubDate>Wed, 14 Dec 2016 00:00:00 +0200</pubDate>
+        <link>http://csakel.github.io/djpanos/2016-12-14-raspberry-pi/</link>
+        <guid isPermaLink="true">http://csakel.github.io/djpanos/2016-12-14-raspberry-pi/</guid>
+      </item>
+    
+      <item>
         <title>Panos Test</title>
         <description>
           Mixin - 
@@ -48,17 +59,6 @@
         <pubDate>Fri, 13 Feb 2015 00:00:00 +0200</pubDate>
         <link>http://csakel.github.io/djpanos/2015-02-13-hamlet-monologue/</link>
         <guid isPermaLink="true">http://csakel.github.io/djpanos/2015-02-13-hamlet-monologue/</guid>
-      </item>
-    
-      <item>
-        <title>Dear diary</title>
-        <description>
-          
-          What is it with that Mary girl? Dragging me to school every day. As if I had a choice. What you don’t hear in those nursery rhymes is that she starves me if I don’t go to school with her; it’s the only way I can stay alive! I’m thinking...
-        </description>
-        <pubDate>Tue, 27 Jan 2015 00:00:00 +0200</pubDate>
-        <link>http://csakel.github.io/djpanos/2015-01-27-dear-diary/</link>
-        <guid isPermaLink="true">http://csakel.github.io/djpanos/2015-01-27-dear-diary/</guid>
       </item>
     
       <item>

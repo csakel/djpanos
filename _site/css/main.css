@@ -239,15 +239,23 @@ img {
 
 footer {
   padding: 30px 0;
+  /*csak added*/
   /*background: #F5F5F5;*/
-  background: #565656;
+  background: #333333;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
 }
 
 footer a {
-  color: #404040;
+  /*csak added*/
+  /*color: #404040;*/
+  color: #0085a1;
+}
+
+a:hover,
+a:focus {
+  color: #16AEDA;
 }
 
 footer .list-inline {
@@ -255,11 +263,15 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
+  /*csak added*/
+  color: #E8EBEB;
   font-family: Open Sans;
   text-align: center;
   margin-bottom: 0;
 }
 footer .theme-by {
+  /*csak added*/
+  color: #E8EBEB;
   text-align: center;
   margin: 10px 0 0;
 }
