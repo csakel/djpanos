@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Panos Test
-subtitle: Mixin
+title: Flying over Manhattan
+subtitle: Let's Groove
 bigimg: /img/manhattan_by_night.jpg
 ---
 

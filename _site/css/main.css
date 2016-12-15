@@ -276,6 +276,15 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 
+footer .csak {
+  /*csak added*/
+  color: #950002;
+  font-family: Roboto Condensed;
+  text-align: center;
+  font-size: 16px;
+  margin: 10px 0 0;
+}
+
 @media only screen and (min-width: 768px) {
   footer {
     padding: 50px 0;
